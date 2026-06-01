@@ -22,6 +22,8 @@ Pandas
 MySQL
 VS Code
 ETL Workflow
+
+
 Extract
 Loaded raw movie dataset from CSV files into Pandas DataFrames.
 
