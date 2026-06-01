@@ -13,7 +13,9 @@ Release Date
 Budget
 Revenue
 Runtime
-Ratings and other movie-related attributes
+Ratings and other movie-related attributes.
+
+
 🛠️ Tech Stack
 Python
 Pandas
@@ -22,16 +24,22 @@ VS Code
 ETL Workflow
 Extract
 Loaded raw movie dataset from CSV files into Pandas DataFrames.
+
+
 Transform
 Removed duplicate records.
 Handled missing values.
 Converted columns to appropriate data types.
 Cleaned and standardized data.
 Prepared data for database storage.
+
+
 Load
 Created database tables.
 Inserted transformed movie data into MySQL.
 Verified successful data loading through SQL queries.
+
+
 📂 Project Structure
 movie-etl-project/
 │
