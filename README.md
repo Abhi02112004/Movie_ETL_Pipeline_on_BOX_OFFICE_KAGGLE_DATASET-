@@ -1,11 +1,14 @@
  Box Office Movie ETL Project
  Project Overview
 
-This project focuses on extracting, cleaning, transforming, and loading box office movie data into a SQL database. 
+This project focuses on extracting, cleaning, transforming, and loading box office movie data into a SQL database.
+
 The goal is to prepare raw movie data for efficient querying and analysis using Python and SQL.
 
 Dataset
-Source: Kaggle Box Office Movie Dataset
+
+Source:
+Kaggle Box Office Movie Dataset
 Contains information such as:
 Movie Title
 Genre
