@@ -123,3 +123,5 @@ print(clean_df.describe())
 # Save transformed file
 clean_df.to_csv("data/cleaned_box_office_dataset.csv", index=False)
 print("\n Cleaned file saved as: data/cleaned_box_office_dataset.csv")
+
+print(df.info())
